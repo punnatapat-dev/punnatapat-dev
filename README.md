@@ -9,4 +9,4 @@
 * 🐍 **Python:** [100 Days of Code - Angela Yu]
   * *Started on: Monday, 17.01.2026*
 * 🌐 **Full-Stack Web Dev:** [The Complete Web Development Bootcamp - Angela Yu]
-  * *Started on: Monday, 19.01.2026*
+  * *Started on: Monday, 18.01.2026*
