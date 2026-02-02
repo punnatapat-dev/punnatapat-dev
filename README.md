@@ -14,11 +14,17 @@
 ---
 
 ### 📚 What I'm learning right now:
-* 🐍 **Python:** [100 Days of Code - Angela Yu]
-  * *Started on: Friday, 16.01.2026*
-* 🌐 **Full-Stack Web Dev:** [The Complete Web Development Bootcamp - Angela Yu]
-  * *Started on: Saturday, 17.01.2026*
-* 🅰️ **Angular:** [First Steps in Praxis-Project]
-  * *Started on: Wednesday, 21.01.2026*
+
+- 🐍 **Python:** [100 Days of Code – Angela Yu]  
+  _Started on: Friday, 16.01.2026_
+
+- 🌐 **Full-Stack Web Dev:** [The Complete Web Development Bootcamp – Angela Yu]  
+  _Started on: Saturday, 17.01.2026_
+
+- 🅰️ **Angular:** [First Steps in Praxis-Project – Maximilian Schwarzmüller]  
+  _Started on: Wednesday, 21.01.2026_
+
+- 🐍 **Python Django:** [Python Django – The Practical Guide – Maximilian Schwarzmüller]  
+  _Started on: Monday, 02.02.2026_
 
 ---
