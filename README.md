@@ -4,7 +4,7 @@
 ---
 
 🔎 **My CV (Lebenslauf):**  
-👉 [Hier finden Sie meinen Lebenslauf](https://punnatapat-dev.github.io/punnatapat-dev/index.html)
+👉[Hier finden Sie meinen Lebenslauf](https://punnatapat-dev.github.io/Resume/)
 
 ---
 
