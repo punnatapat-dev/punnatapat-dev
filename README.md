@@ -3,6 +3,11 @@
 
 ---
 
+🔎 **My CV (Lebenslauf):**  
+👉 [Hier finden Sie meinen Lebenslauf](https://punnatapat-dev.github.io/Resume/)  
+
+---
+
 ### 🎓 Über meine Ausbildung
 * **Profil:** Umschülerin zur **Fachinformatikerin für Anwendungsentwicklung (FIAE)**
 * **Ausbildungsstart:** 11. August 2025
@@ -12,6 +17,8 @@
 > „Neben meiner Umschulung zur Fachinformatikerin für Anwendungsentwicklung nutze ich Kurse auf Udemy, um meine praktischen Programmierkenntnisse zu vertiefen. Da ich erst seit Juli 2023 in Deutschland lebe, sind meine Deutschkenntnisse noch im Aufbau. Daher nutze ich diese englischsprachigen Kurse zusätzlich, um komplexe technische Konzepte tiefergehend zu verstehen und sicherzustellen, dass ich die Inhalte präzise erfasse. Die Kombination aus der theoretischen Basis der Umschulung und der praxisnahen Anwendung hilft mir, mich optimal auf den deutschen Arbeitsmarkt vorzubereiten.“
 
 ---
+
+
 
 ### 📚 What I'm learning right now:
 
