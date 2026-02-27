@@ -11,7 +11,7 @@
 ### 🎓 Über meine Ausbildung
 * **Profil:** Umschülerin zur **Fachinformatikerin für Anwendungsentwicklung (FIAE)**
 * **Ausbildungsstart:** 11. August 2025
-* **Aktueller Stand:** 5. Monat der Umschulung
+* **Aktueller Stand:** 6. Monat der Umschulung
 * **Ziel:** Dokumentation meiner Lernfortschritte und praktische Anwendung der Ausbildungsinhalte
 
 > „Neben meiner Umschulung zur Fachinformatikerin für Anwendungsentwicklung nutze ich Kurse auf Udemy, um meine praktischen Programmierkenntnisse zu vertiefen. Da ich erst seit Juli 2023 in Deutschland lebe, sind meine Deutschkenntnisse noch im Aufbau. Daher nutze ich diese englischsprachigen Kurse zusätzlich, um komplexe technische Konzepte tiefergehend zu verstehen und sicherzustellen, dass ich die Inhalte präzise erfasse. Die Kombination aus der theoretischen Basis der Umschulung und der praxisnahen Anwendung hilft mir, mich optimal auf den deutschen Arbeitsmarkt vorzubereiten.“
